@@ -1,0 +1,1 @@
+{"name":"f-test-delete","type":"function","source":{"https":"https://github.com/devthalal/_test-delete_f-test-delete","ssh":"git@github.com:devthalal/_test-delete_f-test-delete.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
