@@ -1,6 +1,6 @@
 
 
-const f-test-delete = async (req, res) => {
+const f_test_delete = async (req, res) => {
 
   // health check
   if (req.params["health"] === "health") {
@@ -14,4 +14,4 @@ const f-test-delete = async (req, res) => {
   
 }
 
-export default f-test-delete
+export default f_test_delete
