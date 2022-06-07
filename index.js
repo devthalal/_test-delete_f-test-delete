@@ -1,6 +1,10 @@
+const nodeBloxSDK = require('node-blox-sdk');
 
+nodeBloxSDK.env.init()
 
 const f_test_delete = async (req, res) => {
+
+  console.log("🚀 ~ file: index.js ~ line 8 ~ f_test_delete ~ process.env", process.env)
 
   // health check
   if (req.params["health"] === "health") {
@@ -15,3 +19,4 @@ const f_test_delete = async (req, res) => {
 }
 
 export default f_test_delete
+

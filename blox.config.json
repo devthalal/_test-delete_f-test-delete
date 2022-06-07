@@ -1,1 +1,32 @@
-{"name":"f-test-delete","type":"function","source":{"https":"https://github.com/devthalal/_test-delete_f-test-delete","ssh":"git@github.com:devthalal/_test-delete_f-test-delete.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
+{
+  "name": "f-test-delete",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/_test-delete_f-test-delete",
+    "ssh": "git@github.com:devthalal/_test-delete_f-test-delete.git"
+  },
+  "language": "nodejs",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "tags": [
+    "test-tag",
+    "test",
+    "sdf",
+    "bla"
+  ],
+  "categories": [
+    "ecftDKjjZNvdMIHdopvZf",
+    "H-EdUjXuqTTz_fBzF8ZWh",
+    "Q9jRwJfFDpejI7tu35OHA",
+    "yDCnVVjZkMD7-aJfFPK6w",
+    "YMZKQSg_PkThZrB7NuHn9",
+    "SXO7bnbydM36gnBgKSSh7",
+    "FTiJSmsozpIK1N6IsjOQB",
+    "At7QivyqrK9Z5BwfrthGC",
+    "m_futkrdDI3WS5ISOKNoZ",
+    "9IkwykSFcVNLo24XgQoI9",
+    "HdemsJzg4Tcw6UssW-ciB",
+    "SxfYggpGaoy_FHneBrmRE"
+  ]
+}
